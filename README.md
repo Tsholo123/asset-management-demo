@@ -22,7 +22,7 @@ This project demonstrates my ability to design and develop structured, real-worl
 
 ## Screenshots
 
-![Asset Management Dashboard](dashboard.png)
+![Asset Management Dashboard](dashboard-screenshot.png)
 
 ## Note
 This is a demo project created for portfolio purposes only. No real or sensitive data is used.
