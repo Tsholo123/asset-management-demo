@@ -21,7 +21,8 @@ This project demonstrates my ability to design and develop structured, real-worl
 - CSS
 
 ## Screenshots
-Screenshots will be added to showcase the system interface and functionality.
+
+![Asset Management Dashboard](dashboard.png)
 
 ## Note
 This is a demo project created for portfolio purposes only. No real or sensitive data is used.
